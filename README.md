@@ -5,7 +5,7 @@ Version: 1.0.4
 ## Author
 
 Jase Warner ( [https://jase.io](https://jase.io "Jase Warner’s website") )
-
+Original Repo: https://github.com/jasewarner/gulp-shopify
 ## Synopsis
 
 Gulp + Shopify is for those Developers wishing to use [Gulp.js](http://gulpjs.com/ "Gulp.js website") and Shopify’s [Theme Kit](https://shopify.github.io/themekit/ "Theme Kit Github page") to develop their Shopify theme &ndash; a tidy solution to the problem with Shopify not allowing sub-directories within the `/assets` directory.
