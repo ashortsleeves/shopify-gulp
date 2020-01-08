@@ -1,3 +1,13 @@
-.header {
+header.banner {
+  padding: 15px;
 
+  .banner-container {
+    display: flex;
+
+    img.header-logo {
+      max-width: 250px;
+      height: auto;
+      align-self: center;
+    }
+  }
 }
